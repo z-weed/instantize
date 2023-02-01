@@ -1,6 +1,4 @@
-# instantize
-
-First of all, this is NOT meant to be used in a production environment. The purpose of this was to see if I could do it.
+# instantize - abstract project
 
 Easily create instance variables from method arguments
 
