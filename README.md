@@ -1,8 +1,8 @@
-# instantize - abstract project
+# instantize
 
 Easily create instance variables from method arguments
 
-### I'm sure most of us have ended up in situations like this:
+### I'm sure many have ended up in situations like this:
 
 ```ruby
 	def some_method(some_arg, some_other_arg, some_stuff)
